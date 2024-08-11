@@ -43,7 +43,7 @@ I am passionate about using data to solve complex problems and drive business de
 ### 1. [Scarsin](https://www.scarsin.com) - **Forecast Business Analyst Intern**
    - **Location**: Toronto, Canada
    - **Dates**: May 2024 - Aug 2024
-   - **Description**: At Scarsins, I worked in the consulting team providing drug sales forecasting solution for major pharmaceutical companies. By optimizing backend data queries in Excel, I significantly reduced data querying efficiency by 15%. I also collaborated with development team on the time transformation function, which aided users with goal setting, planning, and reporting. Other responsibility include supporting UAT planning, executing test cases for different scenario, and enhencing visualization module of the forecasting application.
+   - **Description**: At Scarsins, I worked in the consulting team providing drug sales forecasting and forecasting solutions of various dieases for major pharmaceutical companies. By optimizing backend data queries in Excel, I significantly reduced data querying efficiency by 15%. I also collaborated with development team on the time transformation function, which aided users with goal setting, planning, and reporting. Other responsibility include supporting UAT planning, executing test cases for different scenario, and enhencing visualization module of the forecasting application.
    - **Key Skills**: Excel, Data Visualization, R
 
 ### 2. [eBay](https://www.ebay.com) - **Data Analyst Intern**
